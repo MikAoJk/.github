@@ -1,3 +1,3 @@
 # Repo defaults
 
-Default files for all my repos
+Default default community health file
