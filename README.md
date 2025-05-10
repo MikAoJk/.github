@@ -7,5 +7,6 @@ This repository contains global community health files to ensure consistent guid
 - `CONTRIBUTING.md`: Steps for contributing to projects.
 - `SECURITY.md`: Security policy and vulnerability reporting.
 - `FUNDING.yml`: Support options for contributors.
+- `README.md`: Info about this repository
 
 For any questions, feel free to reach out!
