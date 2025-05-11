@@ -8,5 +8,6 @@ This repository contains global community health files to ensure consistent guid
 - `SECURITY.md`: Security policy and vulnerability reporting.
 - `FUNDING.yml`: Support options for contributors.
 - `README.md`: Info about this repository
+- `SUPPORT.md` : Support resources
 
 For any questions, feel free to reach out!
